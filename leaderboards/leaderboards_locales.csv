@@ -1,0 +1,12 @@
+id,locale name,title,formatter type,image name
+com.ericjlabs.bomb_finder_4_4,en-US,Size 4 Bombs 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,de-DE,Größe 4 Bomben 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,es-MX,Talla 4 Bombas 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,fr-FR,Taille 4 Bombes 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,it,Dimensione 4 Bombe 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,ja,サイズ4爆弾4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,ko,크기 4 폭탄 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,ru,Размер 4 Бомбы 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,sv,Storlek 4 Bombs 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,tr,Boyut 4 Bombalar 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_4,zh-Hans,4号炸弹4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
