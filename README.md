@@ -1,4 +1,6 @@
 # itms-scripts
+Cloned from https://github.com/RareSloth/itms-scripts/blob/master/itms.config
+
 Scripts to help with uploading localized app store descriptions, in app purchases, achievements, and leaderboards metadata to the App Store via the iTMSTransporter tool
 
 The purpose of creating our own scripts is **mainly for uploading localized IAP and Game Center metadata** to the App Store in bulk, as we haven't found any other scripts that will do that.
