@@ -1,0 +1,1 @@
+Gizli bombaları önlemek için oyun. Bitişik bombaların sayısını ortaya çıkarmak için dokunun veya bir bomba ele geçirildiğinde oyun biter. Bir bomba işaretlemek için uzun basın. Bombalar dışındaki tüm alanları açığa çıkararak kazanın. En iyi zamanlar Game Center'da kaydedilecek.

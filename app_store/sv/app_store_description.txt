@@ -1,0 +1,1 @@
+Spel för att undvika dolda bomber. Knacka för att avslöja antalet närliggande bomber eller om en bomb avslöjas är spelet över. Långt tryck för att markera en bomb. Vinn genom att avslöja alla utrymmen utom för bomber. Bästa tiderna kommer att återspelas i Game Center.

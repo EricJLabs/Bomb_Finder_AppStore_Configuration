@@ -26,11 +26,10 @@ keywords = raw_input.split(';')
 #    display_targets = ['iOS-3.5-in', 'iOS-4-in', 'iOS-4.7-in', 'iOS-5.5-in', 'iOS-iPad', 'iOS-iPad-Pro']
 
     display_targets.each_with_index do |display_target, display_target_index|
-      1.times do |i|
-        image_name = "#{@@base_image_names[display_target_index]}_#{i.to_s.rjust(2, '0')}.png"
+      2.times do |i|
+        image_name = "#{@@base_image_names[display_target_index]}_0#{i}.jpeg"
         localized_image_name = "#{locale_name}_#{image_name}"
         localized_directory = "#{@@locales_directory}/#{locale_name}"
-
         image_data_string = ITMSUtils.image_data_string(localized_directory, localized_image_name)
         @@images_used << "#{localized_directory}/#{localized_image_name}"
 

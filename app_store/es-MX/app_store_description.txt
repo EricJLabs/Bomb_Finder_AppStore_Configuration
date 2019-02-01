@@ -1,0 +1,1 @@
+Juego para evitar bombas ocultas. Toca para revelar el número de bombas adyacentes o si se descubre una bomba, el juego ha terminado. Pulsación larga para marcar una bomba. Gana revelando todos los espacios excepto las bombas. Los mejores tiempos se registrarán en Game Center.

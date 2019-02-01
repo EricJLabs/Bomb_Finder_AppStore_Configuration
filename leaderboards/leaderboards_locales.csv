@@ -1,12 +1,463 @@
 id,locale name,title,formatter type,image name
-com.ericjlabs.bomb_finder_4_4,en-US,Size 4 Bombs 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,de-DE,Größe 4 Bomben 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,es-MX,Talla 4 Bombas 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,fr-FR,Taille 4 Bombes 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,it,Dimensione 4 Bombe 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,ja,サイズ4爆弾4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,ko,크기 4 폭탄 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,ru,Размер 4 Бомбы 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,sv,Storlek 4 Bombs 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,tr,Boyut 4 Bombalar 4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
-com.ericjlabs.bomb_finder_4_4,zh-Hans,4号炸弹4,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,en-US,Size 4 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,de-DE,Größe 4 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,es-MX,Talla 4 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,fr-FR,Taille 4 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,it,Dimensione 4 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,ja,サイズ4レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,ko,크기 4 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,ru,Размер 4 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,sv,Storlek 4 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,tr,Boyut 4 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_1,zh-Hans,4水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,en-US,Size 4 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,de-DE,Größe 4 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,es-MX,Talla 4 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,fr-FR,Taille 4 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,it,Dimensione 4 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,ja,サイズ4レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,ko,크기 4 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,ru,Размер 4 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,sv,Storlek 4 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,tr,Boyut 4 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_2,zh-Hans,4水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,en-US,Size 4 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,de-DE,Größe 4 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,es-MX,Talla 4 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,fr-FR,Taille 4 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,it,Dimensione 4 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,ja,サイズ4レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,ko,크기 4 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,ru,Размер 4 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,sv,Storlek 4 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,tr,Boyut 4 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_4_3,zh-Hans,4水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,en-US,Size 5 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,de-DE,Größe 5 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,es-MX,Talla 5 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,fr-FR,Taille 5 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,it,Dimensione 5 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,ja,サイズ5レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,ko,크기 5 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,ru,Размер 5 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,sv,Storlek 5 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,tr,Boyut 5 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_3,zh-Hans,5水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,en-US,Size 5 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,de-DE,Größe 5 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,es-MX,Talla 5 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,fr-FR,Taille 5 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,it,Dimensione 5 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,ja,サイズ5レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,ko,크기 5 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,ru,Размер 5 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,sv,Storlek 5 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,tr,Boyut 5 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_4,zh-Hans,5水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,en-US,Size 5 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,de-DE,Größe 5 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,es-MX,Talla 5 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,fr-FR,Taille 5 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,it,Dimensione 5 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,ja,サイズ5レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,ko,크기 5 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,ru,Размер 5 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,sv,Storlek 5 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,tr,Boyut 5 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_5_5,zh-Hans,5水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,en-US,Size 6 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,de-DE,Größe 6 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,es-MX,Talla 6 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,fr-FR,Taille 6 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,it,Dimensione 6 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,ja,サイズ6レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,ko,크기 6 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,ru,Размер 6 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,sv,Storlek 6 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,tr,Boyut 6 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_4,zh-Hans,6水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,en-US,Size 6 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,de-DE,Größe 6 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,es-MX,Talla 6 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,fr-FR,Taille 6 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,it,Dimensione 6 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,ja,サイズ6レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,ko,크기 6 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,ru,Размер 6 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,sv,Storlek 6 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,tr,Boyut 6 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_5,zh-Hans,6水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,en-US,Size 6 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,de-DE,Größe 6 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,es-MX,Talla 6 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,fr-FR,Taille 6 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,it,Dimensione 6 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,ja,サイズ6レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,ko,크기 6 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,ru,Размер 6 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,sv,Storlek 6 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,tr,Boyut 6 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_6_7,zh-Hans,6水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,en-US,Size 7 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,de-DE,Größe 7 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,es-MX,Talla 7 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,fr-FR,Taille 7 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,it,Dimensione 7 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,ja,サイズ7レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,ko,크기 7 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,ru,Размер 7 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,sv,Storlek 7 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,tr,Boyut 7 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_6,zh-Hans,7水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,en-US,Size 7 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,de-DE,Größe 7 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,es-MX,Talla 7 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,fr-FR,Taille 7 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,it,Dimensione 7 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,ja,サイズ7レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,ko,크기 7 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,ru,Размер 7 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,sv,Storlek 7 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,tr,Boyut 7 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_7,zh-Hans,7水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,en-US,Size 7 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,de-DE,Größe 7 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,es-MX,Talla 7 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,fr-FR,Taille 7 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,it,Dimensione 7 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,ja,サイズ7レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,ko,크기 7 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,ru,Размер 7 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,sv,Storlek 7 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,tr,Boyut 7 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_7_9,zh-Hans,7水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,en-US,Size 8 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,de-DE,Größe 8 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,es-MX,Talla 8 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,fr-FR,Taille 8 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,it,Dimensione 8 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,ja,サイズ8レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,ko,크기 8 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,ru,Размер 8 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,sv,Storlek 8 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,tr,Boyut 8 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_7,zh-Hans,8水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,en-US,Size 8 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,de-DE,Größe 8 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,es-MX,Talla 8 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,fr-FR,Taille 8 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,it,Dimensione 8 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,ja,サイズ8レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,ko,크기 8 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,ru,Размер 8 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,sv,Storlek 8 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,tr,Boyut 8 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_10,zh-Hans,8水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,en-US,Size 8 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,de-DE,Größe 8 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,es-MX,Talla 8 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,fr-FR,Taille 8 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,it,Dimensione 8 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,ja,サイズ8レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,ko,크기 8 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,ru,Размер 8 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,sv,Storlek 8 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,tr,Boyut 8 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_8_12,zh-Hans,8水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,en-US,Size 9 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,de-DE,Größe 9 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,es-MX,Talla 9 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,fr-FR,Taille 9 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,it,Dimensione 9 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,ja,サイズ9レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,ko,크기 9 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,ru,Размер 9 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,sv,Storlek 9 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,tr,Boyut 9 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_10,zh-Hans,9水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,en-US,Size 9 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,de-DE,Größe 9 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,es-MX,Talla 9 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,fr-FR,Taille 9 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,it,Dimensione 9 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,ja,サイズ9レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,ko,크기 9 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,ru,Размер 9 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,sv,Storlek 9 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,tr,Boyut 9 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_12,zh-Hans,9水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,en-US,Size 9 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,de-DE,Größe 9 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,es-MX,Talla 9 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,fr-FR,Taille 9 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,it,Dimensione 9 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,ja,サイズ9レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,ko,크기 9 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,ru,Размер 9 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,sv,Storlek 9 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,tr,Boyut 9 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_9_16,zh-Hans,9水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,en-US,Size 10 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,de-DE,Größe 10 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,es-MX,Talla 10 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,fr-FR,Taille 10 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,it,Dimensione 10 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,ja,サイズ10レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,ko,크기 10 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,ru,Размер 10 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,sv,Storlek 10 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,tr,Boyut 10 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_12,zh-Hans,10水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,en-US,Size 10 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,de-DE,Größe 10 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,es-MX,Talla 10 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,fr-FR,Taille 10 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,it,Dimensione 10 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,ja,サイズ10レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,ko,크기 10 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,ru,Размер 10 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,sv,Storlek 10 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,tr,Boyut 10 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_16,zh-Hans,10水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,en-US,Size 10 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,de-DE,Größe 10 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,es-MX,Talla 10 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,fr-FR,Taille 10 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,it,Dimensione 10 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,ja,サイズ10レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,ko,크기 10 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,ru,Размер 10 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,sv,Storlek 10 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,tr,Boyut 10 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_10_20,zh-Hans,10水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,en-US,Size 11 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,de-DE,Größe 11 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,es-MX,Talla 11 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,fr-FR,Taille 11 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,it,Dimensione 11 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,ja,サイズ11レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,ko,크기 11 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,ru,Размер 11 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,sv,Storlek 11 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,tr,Boyut 11 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_15,zh-Hans,11水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,en-US,Size 11 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,de-DE,Größe 11 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,es-MX,Talla 11 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,fr-FR,Taille 11 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,it,Dimensione 11 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,ja,サイズ11レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,ko,크기 11 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,ru,Размер 11 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,sv,Storlek 11 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,tr,Boyut 11 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_19,zh-Hans,11水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,en-US,Size 11 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,de-DE,Größe 11 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,es-MX,Talla 11 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,fr-FR,Taille 11 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,it,Dimensione 11 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,ja,サイズ11レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,ko,크기 11 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,ru,Размер 11 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,sv,Storlek 11 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,tr,Boyut 11 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_11_24,zh-Hans,11水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,en-US,Size 12 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,de-DE,Größe 12 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,es-MX,Talla 12 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,fr-FR,Taille 12 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,it,Dimensione 12 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,ja,サイズ12レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,ko,크기 12 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,ru,Размер 12 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,sv,Storlek 12 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,tr,Boyut 12 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_17,zh-Hans,12水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,en-US,Size 12 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,de-DE,Größe 12 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,es-MX,Talla 12 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,fr-FR,Taille 12 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,it,Dimensione 12 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,ja,サイズ12レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,ko,크기 12 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,ru,Размер 12 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,sv,Storlek 12 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,tr,Boyut 12 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_23,zh-Hans,12水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,en-US,Size 12 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,de-DE,Größe 12 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,es-MX,Talla 12 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,fr-FR,Taille 12 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,it,Dimensione 12 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,ja,サイズ12レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,ko,크기 12 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,ru,Размер 12 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,sv,Storlek 12 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,tr,Boyut 12 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_12_28,zh-Hans,12水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,en-US,Size 13 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,de-DE,Größe 13 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,es-MX,Talla 13 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,fr-FR,Taille 13 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,it,Dimensione 13 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,ja,サイズ13レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,ko,크기 13 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,ru,Размер 13 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,sv,Storlek 13 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,tr,Boyut 13 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_20,zh-Hans,13水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,en-US,Size 13 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,de-DE,Größe 13 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,es-MX,Talla 13 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,fr-FR,Taille 13 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,it,Dimensione 13 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,ja,サイズ13レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,ko,크기 13 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,ru,Размер 13 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,sv,Storlek 13 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,tr,Boyut 13 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_27,zh-Hans,13水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,en-US,Size 13 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,de-DE,Größe 13 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,es-MX,Talla 13 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,fr-FR,Taille 13 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,it,Dimensione 13 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,ja,サイズ13レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,ko,크기 13 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,ru,Размер 13 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,sv,Storlek 13 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,tr,Boyut 13 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_13_33,zh-Hans,13水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,en-US,Size 14 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,de-DE,Größe 14 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,es-MX,Talla 14 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,fr-FR,Taille 14 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,it,Dimensione 14 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,ja,サイズ14レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,ko,크기 14 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,ru,Размер 14 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,sv,Storlek 14 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,tr,Boyut 14 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_24,zh-Hans,14水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,en-US,Size 14 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,de-DE,Größe 14 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,es-MX,Talla 14 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,fr-FR,Taille 14 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,it,Dimensione 14 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,ja,サイズ14レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,ko,크기 14 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,ru,Размер 14 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,sv,Storlek 14 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,tr,Boyut 14 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_31,zh-Hans,14水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,en-US,Size 14 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,de-DE,Größe 14 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,es-MX,Talla 14 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,fr-FR,Taille 14 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,it,Dimensione 14 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,ja,サイズ14レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,ko,크기 14 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,ru,Размер 14 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,sv,Storlek 14 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,tr,Boyut 14 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_14_39,zh-Hans,14水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,en-US,Size 15 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,de-DE,Größe 15 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,es-MX,Talla 15 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,fr-FR,Taille 15 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,it,Dimensione 15 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,ja,サイズ15レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,ko,크기 15 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,ru,Размер 15 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,sv,Storlek 15 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,tr,Boyut 15 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_27,zh-Hans,15水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,en-US,Size 15 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,de-DE,Größe 15 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,es-MX,Talla 15 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,fr-FR,Taille 15 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,it,Dimensione 15 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,ja,サイズ15レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,ko,크기 15 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,ru,Размер 15 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,sv,Storlek 15 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,tr,Boyut 15 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_36,zh-Hans,15水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,en-US,Size 15 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,de-DE,Größe 15 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,es-MX,Talla 15 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,fr-FR,Taille 15 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,it,Dimensione 15 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,ja,サイズ15レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,ko,크기 15 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,ru,Размер 15 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,sv,Storlek 15 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,tr,Boyut 15 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_15_45,zh-Hans,15水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,en-US,Size 16 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,de-DE,Größe 16 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,es-MX,Talla 16 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,fr-FR,Taille 16 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,it,Dimensione 16 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,ja,サイズ16レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,ko,크기 16 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,ru,Размер 16 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,sv,Storlek 16 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,tr,Boyut 16 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_31,zh-Hans,16水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,en-US,Size 16 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,de-DE,Größe 16 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,es-MX,Talla 16 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,fr-FR,Taille 16 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,it,Dimensione 16 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,ja,サイズ16レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,ko,크기 16 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,ru,Размер 16 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,sv,Storlek 16 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,tr,Boyut 16 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_40,zh-Hans,16水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,en-US,Size 16 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,de-DE,Größe 16 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,es-MX,Talla 16 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,fr-FR,Taille 16 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,it,Dimensione 16 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,ja,サイズ16レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,ko,크기 16 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,ru,Размер 16 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,sv,Storlek 16 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,tr,Boyut 16 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_16_51,zh-Hans,16水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,en-US,Size 17 Level Easy,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,de-DE,Größe 17 Niveau Einfach,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,es-MX,Talla 17 Nivel Fácil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,fr-FR,Taille 17 Niveau Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,it,Dimensione 17 Livello Facile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,ja,サイズ17レベル簡単,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,ko,크기 17 수평 쉬운,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,ru,Размер 17 уровень Легко,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,sv,Storlek 17 Nivå Lätt,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,tr,Boyut 17 Seviye Kolay,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_35,zh-Hans,17水平简单,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,en-US,Size 17 Level Intermediate,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,de-DE,Größe 17 Niveau Mittlere,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,es-MX,Talla 17 Nivel Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,fr-FR,Taille 17 Niveau Intermédiaire,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,it,Dimensione 17 Livello Intermedio,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,ja,サイズ17レベル中級,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,ko,크기 17 수평 중급,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,ru,Размер 17 уровень промежуточный,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,sv,Storlek 17 Nivå Mellanliggande,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,tr,Boyut 17 Seviye Orta düzey,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_46,zh-Hans,17水平中间,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,en-US,Size 17 Level Hard,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,de-DE,Größe 17 Niveau Schwer,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,es-MX,Talla 17 Nivel Difícil,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,fr-FR,Taille 17 Niveau Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,it,Dimensione 17 Livello Difficile,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,ja,サイズ17レベルハード,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,ko,크기 17 수평 단단한,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,ru,Размер 17 уровень Жесткий,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,sv,Storlek 17 Nivå Hård,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,tr,Boyut 17 Seviye Zor,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png
+com.ericjlabs.bomb_finder_17_57,zh-Hans,17水平硬,ELAPSED_TIME_TO_HUNDREDTH_OF_SECOND,bomb.png

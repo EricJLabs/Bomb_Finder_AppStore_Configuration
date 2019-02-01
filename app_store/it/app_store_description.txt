@@ -1,0 +1,1 @@
+Gioco per evitare le bombe nascoste. Tocca per rivelare il numero di bombe adiacenti o se viene scoperta una bomba il gioco è finito. Premi a lungo per contrassegnare una bomba. Vinci rivelando tutti gli spazi tranne le bombe. I migliori tempi verranno registrati in Game Center.

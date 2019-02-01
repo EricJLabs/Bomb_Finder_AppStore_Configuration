@@ -13,9 +13,6 @@ class ITMSUtils
     full_destination_path = File.expand_path(destination)
     image_filenames.each do |image_filename|
       full_image_filepath = File.expand_path(image_filename)
-      puts "hello"
-      puts "#{full_image_filepath}"
-      puts "#{full_destination_path}"
       `cp #{full_image_filepath} #{full_destination_path}`
     end
   end

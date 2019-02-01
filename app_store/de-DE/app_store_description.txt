@@ -1,1 +1,1 @@
-Bomb Finder
+Spiel, um verborgene Bomben zu vermeiden. Tippen Sie auf, um die Anzahl der benachbarten Bomben anzuzeigen oder wenn eine Bombe aufgedeckt wird, ist das Spiel beendet. Lang drücken, um eine Bombe zu markieren. Gewinne, indem du alle Felder mit Ausnahme von Bomben aufdeckst. Bestzeiten werden im Game Center aufgezeichnet.

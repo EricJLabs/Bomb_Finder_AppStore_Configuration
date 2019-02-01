@@ -1,3 +1,12 @@
 locale,name,title,keywords,software url,privacy url,support url
 en-US,Bomb Finder,minesweeper;bomb;game;hidden,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
 de-DE,Bomb Finder,Minensucher;Bombe;Spiel;versteckt,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+es-MX,Bomb Finder,limpiador de minas;bomba;juego;oculto,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+fr-FR,Bomb Finder,dragueur de mines;bombe;jeu;caché,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+it,Bomb Finder,dragamine;bomba;gioco;nascosta,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+ja,Bomb Finder,掃海艇;爆弾;ゲーム;隠された,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+ko,Bomb Finder,폭탄;게임;숨겨진 지뢰 찾기,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+ru,Bomb Finder,тральщик;бомба;игра;скрытый,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+sv,Bomb Finder,minsvepare;bomb;spel;dolda,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+tr,Bomb Finder,mayın tarama gemisi;bomba;oyun;gizli,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder
+zh-Hans,Bomb Finder,扫雷艇;炸弹;游戏;隐藏,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder,https://github.com/EricJLabs/Bomb-Finder

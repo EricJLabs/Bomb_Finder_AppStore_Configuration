@@ -1,0 +1,1 @@
+Jeu pour éviter les bombes cachées. Appuyez sur pour afficher le nombre de bombes adjacentes ou, si une bombe est découverte, la partie est terminée. Appuyez longuement pour marquer une bombe. Gagnez en révélant tous les espaces sauf les bombes. Les meilleurs temps seront enregistrés dans le Game Center.

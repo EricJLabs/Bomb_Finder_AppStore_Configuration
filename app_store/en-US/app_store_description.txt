@@ -1,1 +1,1 @@
-Bomb Finder
+Game to avoid hidden bombs.  Tap to reveal the number of adjacent bombs or if a bomb is uncovered the game is over.  Long press to mark a bomb.  Win by revealing all spaces except for bombs.  Best times will be recored in Game Center.
